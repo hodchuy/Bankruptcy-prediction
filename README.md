@@ -31,3 +31,7 @@ Before running the model. I scale the data with mean = 0, std = 1. Then I splitt
 * Decision Tree: 54%
 * Random Forest: 65%
 * K-nearest neighbor: 50%
+
+## Limitations
+The model is the first attempt to predict bankruptcy. 
+There are many other micro and macro factors such as GDP, Consumer Purchasing Power, FOREX, politics, so on that affect the bankruptcy. 
