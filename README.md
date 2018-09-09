@@ -1,4 +1,4 @@
-# Bankruptcy-prediction
+# Bankruptcy prediction using Python
 The workbook aims to predict bankruptcy for U.S. Service Companies 1,2,3 years before bankruptcy using machine learning model namely Supported Vector Machine, Decision Tree, K-nearest Neighbor, Random Forest
 
 ## Data Source:
