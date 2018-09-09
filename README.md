@@ -10,6 +10,9 @@ The workbook aims to predict bankruptcy for U.S. Service Companies 1,2,3 years b
 There are 7 variables used to predict bankruptcy. All the variable are believed to yeild high accuracy rate because there were well researched by many researchers such as Altman (1983), Beaver (1966).
 The variables are: X1 = working capital/total assets; X2 = retained earnings/total asssets; X3 = EBIT/total assets; X4 = total equity(book)/total assets; X5 = net income/total assets; X6 = total liabilities/total assets; X7 = cash flow from operation/total liabilities
 
+## Split/Train/Test
+Before running the model. I scale the data with mean = 0, std = 1. Then I splitted data with 60% for train, 40% for test. 
+
 ## Accuracy rate results
 ### T-1 (1 year before bankruptcy)
 * Supported Vetor Machine: 73%
